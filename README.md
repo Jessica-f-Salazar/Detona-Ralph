@@ -5,4 +5,4 @@ o objetivo é acertar o inimigo na janela, clicando nele quando aparecer. Faça 
 
 Esse jogo foi criado como projeto dentro do BootCamp da [DIO](https://www.dio.me/), utilizando HTML, CSS e JavaScript puro. 
 
-Clique [aqui]() para jogar. Divirta-se! 
+Clique [aqui](https://jessica-f-salazar.github.io/Detona-Ralph/) para jogar. Divirta-se! 
